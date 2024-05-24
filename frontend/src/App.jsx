@@ -6,9 +6,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
-      <div>
-        <Terminal/>
+    <div className='playground-container'>
+      <div className='editor-container'>
+        <Terminal className= "terminal-container"/>
       </div>
       
     </div>

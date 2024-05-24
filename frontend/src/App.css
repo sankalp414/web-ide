@@ -1,0 +1,8 @@
+.playground-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.editor-container{
+    min-height: 60vh;
+}
